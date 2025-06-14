@@ -3,6 +3,7 @@
 ### Project Overview
 ---
 This report effectively analyses the surevy data used to test the fasibility of a startup cpmpany's goal to create an All-In-One entertainment platform.
+![omnify-1](https://github.com/user-attachments/assets/52e150af-56d6-4b49-944d-9577cc6915ac)
 
 
 ### Data Sources
