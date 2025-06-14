@@ -8,7 +8,7 @@ This report effectively analyses the surevy data used to test the fasibility of 
 
 ### Data Sources
 ---
-The primary dataset used for this analysis is the "survey_data.csv", which contains actual records of responses from different persons.
+The primary dataset used for this analysis is the "survey_data.xlsx", which contains actual records of responses from different persons.
 
 ### Tools
 ---
