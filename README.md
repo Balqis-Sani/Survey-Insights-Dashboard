@@ -62,8 +62,8 @@ This indicates that the platform should be mobile-first, with responsive support
 4. **Motivation to Upgrade:** The leading reason for upgrading from a free to paid plan is access to high-quality content (9 responses). To increase subscriptions, the platform should emphasize premium, high-quality content offerings.
 
 5. **Interest in an All-in-One Platform:** The main challenges reported were; 
-- Switching between apps (15 votes)
-- Managing multiple subscriptions (15 & 9 votes)
+   - Switching between apps (15 votes)
+   - Managing multiple subscriptions (15 & 9 votes)
 These pain points validate the problem-solution fit and support the platform's core concept.
 
 6. **Interest in the Solution** : A significant majority; 44 out of 53 respondents indicated they would like an all-in-one platform.
